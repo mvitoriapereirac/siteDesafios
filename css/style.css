@@ -1,0 +1,114 @@
+body{
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, sans-serif;
+  background-color:rgb(160, 16, 16);
+  color:#ffffff;
+  margin: 0 0 30px 0;
+}
+
+h1{
+  font-size: 40px;
+  font-weight: 400;
+  font-style: italic;
+  
+}
+
+h2 {
+    color:rgba(250, 183, 153, 0.973);
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+h3{
+  font-size: 22px;
+  font-style: italic;
+}
+
+p{
+  font-size: 17px;
+  line-height: 1,5;
+}
+
+.tamanho-imagens{
+  width: 100%;
+}
+
+.titulo-verde{
+  color: #04ff9f;
+}
+
+.titulo-vermelho{
+  color:#FF9E9E;
+}
+
+.titulo-amarelo{
+  color:#ffe36d;
+}
+
+section{
+  width: 60%;
+  margin:0 auto;
+}
+
+section section{
+  width: 100%;
+}
+
+ul{
+  list-style-type: none;
+  line-height: 2;
+  padding-left: 0;
+}
+
+a{
+  text-decoration: none;
+  color: #99ffff;
+  font-weight: 700;
+}
+
+.principal a{
+  color:#FFF;
+  text-decoration: underline;
+  font-weight: normal;
+
+}
+
+.principal{
+  background:#3e81ad;
+  height: 40px;
+  max-width: 60%;
+  margin: 0 auto;
+}
+
+.principal li{
+  display: inline-block;
+  line-height: 2.5;
+  margin: 0 89px;
+}
+
+form button{
+  background: #41f341;
+  border:  1px solid transparent;
+  padding: 2px 20px;
+  border-radius: 3px;
+}
+
+embed{
+  width: 650px;
+  height: 488px;
+  padding: 10px;
+  background: rgba(247, 208, 136, 0.856);
+  
+}
+
+.primeira-imagem{
+  width: 100%;
+  height: 5%;
+}
+
+.menina-abraço{
+  width: max 70%;
+  padding: 10px 30px;
+  background: #FF9E9E;
+  border: 4px peru solid;
+}
